@@ -1,0 +1,5 @@
+﻿  DuoZhangCAI.cpp
+f:\c++hw\3\duo_hw3\duo_hw3\duozhangcai.cpp(125): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\c++hw\3\duo_hw3\duo_hw3\duozhangcai.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Duo_hw3.vcxproj -> F:\c++hw\3\Duo_hw3\Debug\Duo_hw3.exe
+  Duo_hw3.vcxproj -> F:\c++hw\3\Duo_hw3\Debug\Duo_hw3.pdb (Full PDB)
