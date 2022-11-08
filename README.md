@@ -1,2 +1,2 @@
-# c++ code couse
+# c++ code for couse
 
