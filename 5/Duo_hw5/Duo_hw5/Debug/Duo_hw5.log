@@ -1,0 +1,6 @@
+﻿  WordFont.cpp
+d:\c++hw\5\duo_hw5\duo_hw5\wordfont.cpp(530): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\5\duo_hw5\duo_hw5\wordfont.cpp(576): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\5\duo_hw5\duo_hw5\wordfont.cpp(578): warning C4018: '<': signed/unsigned mismatch
+  Duo_hw5.vcxproj -> D:\c++hw\5\Duo_hw5\Debug\Duo_hw5.exe
+  Duo_hw5.vcxproj -> D:\c++hw\5\Duo_hw5\Debug\Duo_hw5.pdb (Full PDB)

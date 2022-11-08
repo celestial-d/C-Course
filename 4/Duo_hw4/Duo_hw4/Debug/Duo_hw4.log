@@ -1,0 +1,13 @@
+﻿  main.cpp
+  SelectionSort.cpp
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(217): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(220): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(237): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(240): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(259): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(262): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(283): warning C4018: '<': signed/unsigned mismatch
+d:\c++hw\4\duo_hw4\duo_hw4\selectionsort.cpp(286): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Duo_hw4.vcxproj -> D:\c++hw\4\Duo_hw4\Debug\Duo_hw4.exe
+  Duo_hw4.vcxproj -> D:\c++hw\4\Duo_hw4\Debug\Duo_hw4.pdb (Full PDB)
