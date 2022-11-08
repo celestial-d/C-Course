@@ -1,0 +1,8 @@
+﻿  screenserver.cpp
+d:\c++hw\9\duo_hw9\duo_hw9\screenserver.cpp(33): warning C4101: 'shapes': unreferenced local variable
+  MyCircle.cpp
+d:\c++hw\9\duo_hw9\duo_hw9\mycircle.cpp(75): warning C4018: '>': signed/unsigned mismatch
+d:\c++hw\9\duo_hw9\duo_hw9\mycircle.cpp(77): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Duo_hw9.vcxproj -> D:\c++hw\9\Duo_hw9\Debug\Duo_hw9.exe
+  Duo_hw9.vcxproj -> D:\c++hw\9\Duo_hw9\Debug\Duo_hw9.pdb (Full PDB)

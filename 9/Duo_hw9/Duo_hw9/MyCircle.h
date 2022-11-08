@@ -1,0 +1,89 @@
+///////////////////////////////////////////////////////////////////////////////
+// Duo Zhang
+// CIS 554
+// MyCircle
+//
+// Description: Interface file for a simple triangle class. This class will 
+//              clients to draw simple circle on the screen.
+//
+///////////////////////////////////////////////////////////////////////////////
+
+#ifndef __MY_CIRCLE__
+#define __MY_CIRCLE__
+
+// include appropriate prototypes
+#include "FilledShapes.h"
+#include "Shape.h"
+#include <windows.h>
+
+class MyCircle : public Shape {
+
+	// Public Interace
+public:
+
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Function: Default Constructor
+	// Purpose: Construct a circle.
+	//
+	// Inputs: None
+	// Outputs: None
+	// 
+	// Returns: None
+	///////////////////////////////////////////////////////////////////////////////
+	MyCircle();
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Function: Draw
+	// Purpose: Draw the circle with the current attributes
+	//
+	// Inputs: None
+	// Outputs: None
+	// 
+	// Returns: true if successful, false otherwise
+	///////////////////////////////////////////////////////////////////////////////
+	virtual bool Draw();
+
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Function: SetRadius
+	// Purpose: Set the radius of the circle (i.e. in the y direction)
+	//
+	// Inputs: int radius - desired radius of circle
+	// Outputs: None
+	// 
+	// Returns: true if successful, false otherwise
+	///////////////////////////////////////////////////////////////////////////////
+	bool SetRadius(unsigned int length);
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Function: GetRadius
+	// Purpose: Get the radius of the circle 
+	//
+	// Inputs: None
+	// Outputs: None
+	// 
+	// Returns: current radius of circle
+	///////////////////////////////////////////////////////////////////////////////
+	unsigned int GetRadius();
+
+	///////////////////////////////////////////////////////////////////////////////
+	// Function: SetPosition
+	// Purpose: Set the position of the circle. 
+	//
+	// Inputs: POINT point - x,y coordinates 
+	// Outputs: None
+	// 
+	// Returns: true if successful, false otherwise
+	///////////////////////////////////////////////////////////////////////////////
+	virtual bool SetPosition(POINT &point);
+
+	// Private Stuff
+
+private:
+
+	unsigned int circleradius;
+
+}; // end class Mycircle declaration
+
+#endif __MY_CIRCLE__
