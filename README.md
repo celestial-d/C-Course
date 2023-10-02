@@ -1,2 +1,2 @@
 # c++ code Practice
-Previous hw of C++ clasee
+Previous hws of C++ course
